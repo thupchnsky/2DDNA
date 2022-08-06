@@ -1,6 +1,6 @@
-# Official implementation of 2DDNA image storage platform
+# Official implementation of 2DDNA image storage platform (Nature Communications)
 [![DOI](https://zenodo.org/badge/345400059.svg)](https://zenodo.org/badge/latestdoi/345400059)
-### [Paper (Under Review)](https://www.biorxiv.org/content/10.1101/2021.02.22.432304v2)
+### [Paper](https://www.nature.com/articles/s41467-022-30140-x)
 
 Programming language: Python 3.6. Tested on operating systems: Windows 10, CentOS 7.7.1908
 
